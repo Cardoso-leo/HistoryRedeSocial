@@ -24,7 +24,7 @@ A simple Java application for sharing stories and comments.
 
 ## Contributing
 
-Feel free to submit issues or pull requests for improvements.
+Feel free to submit issues or pull requests for improvements!!!
 
 ## License
 
